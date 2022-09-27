@@ -9,3 +9,12 @@ https://chris-anatalio.dev/
 - Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
 - Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
 - Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
+
+### Check out my courses on Linkedin Learning
+ - [Building a Full-Stack App with Angular 2+ and
+   Spring Boot](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot)
+ - [JHipster: Build and DeploySpring Boot
+   Microservices](https://linkedin-learning.pxf.io/jhipster-build-and-deploy-spring-boot-microservices)
+ - [Reactive Java 8](https://linkedin-learning.pxf.io/reactive-java-8)
+ - [Reactive Spring](https://linkedin-learning.pxf.io/19QKz)
+ - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
