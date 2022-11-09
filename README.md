@@ -1,8 +1,10 @@
-## Hi 👋 I'm a Platform Advocate for Consensys, a software engineer and Linkedin Learning Technical Author
+## Hi 👋 I'm a Platform Advocate for @ConsenSys supporting @Infura, a software engineer and Linkedin Learning Technical Author
 
 https://chris-anatalio.dev/
 
 - 🔭 I’m currently working on Solidity, Smart Contract and Truffle Workshops that demonstrate how to build Sample Reference Applications leveraging Infura
+
+- @Developer-DAO #4727
 
 ### Examples of my work:
 - Check out this Getting Started with Infura article:  https://blog.infura.io/post/getting-started-with-infura-28e41844cc89
