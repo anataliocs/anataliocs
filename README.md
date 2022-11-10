@@ -5,6 +5,7 @@ https://chris-anatalio.dev/
 - 🔭 I’m currently working on Solidity, Smart Contract and Truffle Workshops that demonstrate how to build Sample Reference Applications leveraging Infura
 
 - @Developer-DAO #4727
+- chris-anatalio.lens
 
 ### Examples of my work:
 - Check out this Getting Started with Infura article:  https://blog.infura.io/post/getting-started-with-infura-28e41844cc89
