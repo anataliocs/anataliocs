@@ -2,7 +2,7 @@
 
 https://chris-anatalio.dev/
 
-- 🔭 I’m currently working on Solidity, Smart Contract and Truffle Workshops that demonstrate how to build Sample Reference Applications leveraging Infura[https://infura.io/register].
+- 🔭 I’m currently working on Solidity, Smart Contract and Truffle Workshops that demonstrate how to build Sample Reference Applications leveraging [Infura](https://infura.io/register).
 
 - Developer-DAO #4727
 - chris-anatalio.lens
@@ -22,3 +22,7 @@ https://chris-anatalio.dev/
  - [Reactive Java 8](https://linkedin-learning.pxf.io/reactive-java-8)
  - [Reactive Spring](https://linkedin-learning.pxf.io/19QKz)
  - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
+
+### Connect:
+- [Twitter](https://twitter.com/CAnatalio)
+- [Telegram](t.me/anataliocs)
