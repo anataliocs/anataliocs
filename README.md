@@ -26,3 +26,5 @@ https://chris-anatalio.dev/
 ### Connect:
 - [Twitter](https://twitter.com/CAnatalio)
 - [Telegram](t.me/anataliocs)
+- [Linkedin](https://www.linkedin.com/in/anataliocs/)
+- Discord:  Chris Anatalio | Infura#3855
