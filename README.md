@@ -13,6 +13,7 @@ https://chris-anatalio.dev/
 - Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
 - Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
 - Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
+- How to create an NFT on Aurora using Infura, Truffle, and MetaMask: https://blog.infura.io/post/evm-compatibility-on-near-how-aurora-works-and-deploying-to-aurora-and-interacting-with-bridged-assets
 
 ### Check out my courses on Linkedin Learning
  - [Building a Full-Stack App with Angular 2+ and
