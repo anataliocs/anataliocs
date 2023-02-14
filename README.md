@@ -12,6 +12,8 @@
 - Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
 - How to create an NFT on Aurora using Infura, Truffle, and MetaMask: https://blog.infura.io/post/evm-compatibility-on-near-how-aurora-works-and-deploying-to-aurora-and-interacting-with-bridged-assets
 
+[Participating in a Hackathon?](https://consensys.net/developers/ultimate-hackathon-survival-guide/)
+
 ### Check out my courses on Linkedin Learning
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot)
@@ -27,6 +29,7 @@
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - Discord:  Chris Anatalio | Infura#3855
 - https://chris-anatalio.dev/
+- P
 
 ### StackOverflow Stats:
 
