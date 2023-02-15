@@ -29,7 +29,6 @@
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - Discord:  Chris Anatalio | Infura#3855
 - https://chris-anatalio.dev/
-- P
 
 ### StackOverflow Stats:
 
