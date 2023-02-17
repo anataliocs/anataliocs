@@ -27,7 +27,7 @@
 - [Twitter](https://twitter.com/CAnatalio)
 - [Telegram](t.me/anataliocs)
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
-- Discord:  Chris Anatalio | Infura#3855
+- Discord:  [Chris Anatalio | Infura#3855](https://discord.gg/consensys)
 - https://chris-anatalio.dev/
 
 ### StackOverflow Stats:
