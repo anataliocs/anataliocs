@@ -14,6 +14,8 @@
 
 [Participating in a Hackathon?](https://consensys.net/developers/ultimate-hackathon-survival-guide/)
 
+[Need Sepolia ETH?](https://www.infura.io/faucet)
+
 ### Check out my courses on Linkedin Learning
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot)
