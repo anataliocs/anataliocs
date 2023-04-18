@@ -10,7 +10,6 @@
 - Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
 - Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
 - Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
-- How to create an NFT on Aurora using Infura, Truffle, and MetaMask: https://blog.infura.io/post/evm-compatibility-on-near-how-aurora-works-and-deploying-to-aurora-and-interacting-with-bridged-assets
 - Tutorial on how to use the Infura Sepolia Faucet:  https://www.youtube.com/watch?v=WkojkWkVdZY
 
 [Participating in a Hackathon?](https://consensys.net/developers/ultimate-hackathon-survival-guide/)
