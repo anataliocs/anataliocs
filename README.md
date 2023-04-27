@@ -27,10 +27,10 @@
 
 ### Connect:
 - [Twitter](https://twitter.com/CAnatalio)
-- [Telegram](https://t.me/anataliocs)
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
-- Discord:  [Chris Anatalio | Infura#3855](https://discord.gg/consensys)
-- https://chris-anatalio.dev/
+- [Website](https://chris-anatalio.dev/)
+
+<img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
 
 ### StackOverflow Stats:
 
