@@ -30,7 +30,9 @@
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - [Website](https://chris-anatalio.dev/)
 
-<img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
+<a href="https://twitter.com/CAnatalio">
+ <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
+</a>
 
 ### StackOverflow Stats:
 
