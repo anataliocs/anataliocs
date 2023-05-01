@@ -11,7 +11,7 @@
 - Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
 - Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
 - Tutorial on how to use the Infura Sepolia Faucet:  https://www.youtube.com/watch?v=WkojkWkVdZY
-- Hands-On Getting Started with the Infura NFT API and SDK Technical Guide:  https://www.youtube.com/watch?v=FrR9bF6S_fg
+- Hands-On Getting Started with the Infura NFT API and SDK Technical Guide:  [Live Coding Tutorial with the Infura NFT API and SDK](https://www.youtube.com/watch?v=FrR9bF6S_fg)
 
 [Participating in a Hackathon?](https://consensys.net/developers/ultimate-hackathon-survival-guide/)
 
