@@ -27,9 +27,8 @@
  - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
 
 ### Connect:
-- [Twitter](https://twitter.com/CAnatalio)
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
-- [Website](https://chris-anatalio.dev/)
+- [Personal Website](https://chris-anatalio.dev/)
 
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
