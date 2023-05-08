@@ -16,7 +16,7 @@
 
 [Participating in a Hackathon?](https://consensys.net/developers/ultimate-hackathon-survival-guide/)
 
-[Need Sepolia ETH?](https://www.infura.io/faucet)
+[Need Sepolia ETH?](https://www.infura.io/faucet/sepolia)
 
 ### Check out my courses on Linkedin Learning
  - [Building a Full-Stack App with Angular 2+ and
