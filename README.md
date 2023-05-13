@@ -3,6 +3,7 @@
 
 - Developer-DAO #4727
 - chris-anatalio.lens
+- chris-anatalio.eth
 
 ### Examples of my work:
 - Check out this Getting Started with Infura article:  https://blog.infura.io/post/getting-started-with-infura-28e41844cc89
