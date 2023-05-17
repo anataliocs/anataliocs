@@ -1,4 +1,4 @@
-## Hi 👋 I'm a Platform Advocate for ConsenSys supporting Infura, a software engineer and Linkedin Learning Technical Author
+## Hi 👋 I'm a Web3 Developer Advocate, a software engineer, Linkedin Learning Technical Author and OSS contributor
 🔭 I’m currently working on Solidity, Smart Contract and Truffle Workshops that demonstrate how to build Sample Reference Applications leveraging [Infura](https://infura.io/register).
 
 - Developer-DAO #4727
