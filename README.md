@@ -1,5 +1,5 @@
 ## Hi 👋 I'm a Web3 Developer Advocate, a software engineer, Linkedin Learning Technical Author and OSS contributor
-🔭 I’m currently working on Solidity, Smart Contract and Truffle Workshops that demonstrate how to build Sample Reference Applications leveraging [Infura](https://infura.io/register).
+🔭 I’m currently working on Solidity, Smart Contract Workshops that demonstrate how to build Sample Reference Applications.
 
 - Developer-DAO #4727
 - chris-anatalio.lens
