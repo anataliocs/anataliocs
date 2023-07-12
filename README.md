@@ -5,6 +5,7 @@
 - chris-anatalio.lens
 - chris-anatalio.eth
 - CryptoNomads #218
+- [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
 ### Examples of my work:
 - I was a guest on the CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
