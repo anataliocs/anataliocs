@@ -4,7 +4,7 @@
 - Developer-DAO #4727
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - chris-anatalio.eth
-- CryptoNomads #218
+- [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
 ### Examples of my work:
