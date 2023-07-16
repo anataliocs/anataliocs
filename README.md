@@ -2,7 +2,7 @@
 🔭 I’m currently working on Solidity, Smart Contract Workshops that demonstrate how to build Sample Reference Applications.
 
 - Developer-DAO #4727
-- chris-anatalio.lens
+- [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - chris-anatalio.eth
 - CryptoNomads #218
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
