@@ -33,6 +33,7 @@
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - [Personal Website](https://chris-anatalio.dev/)
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
+- [Telegram](https://t.me/anataliocs/)
 
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
