@@ -1,5 +1,5 @@
-## Hi 👋 I'm a Web3 Developer Advocate, a software engineer, Linkedin Learning Technical Author and OSS contributor
-🔭 I’m currently working on Solidity, Smart Contract Workshops that demonstrate how to build Sample Reference Applications.
+## Hi 👋 I'm a Web3 developer advocate 🌈, a software engineer 💻, technical educator 📹 and OSS contributor :shipit: 
+🔭 I’m currently working on Solidity Workshops that demonstrate how to build sample reference applications.
 
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
