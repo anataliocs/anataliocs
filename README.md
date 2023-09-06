@@ -39,6 +39,7 @@
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 - [Telegram](https://t.me/anataliocs/)
 - [Wellfound](https://wellfound.com/u/canatalio)
+- [Resume](https://drive.google.com/file/d/18OZwr5tm1e3yjUir_q7hqNzlA6xDNjki/view?usp=sharing)
 
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
