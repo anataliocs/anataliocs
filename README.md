@@ -12,6 +12,7 @@
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
 ### 💻 Work Samples:
+- ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion: https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726
 - Hands-On Getting Started with the Infura NFT API and SDK Technical Guide:  [Live Coding Tutorial with the Infura NFT API and SDK](https://www.youtube.com/watch?v=FrR9bF6S_fg)
 - I was a guest on the CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
 - Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
