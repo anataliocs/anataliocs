@@ -2,6 +2,8 @@
 🔭 I’m currently working on Solidity Workshops that demonstrate how to build sample reference applications demonstrating concepts such as:
 - DeFi Primitives
 - NFTs
+- DAOs
+- Oracles
 - UIs
 
 ### 💌 Web3 Dev Community:
@@ -38,13 +40,13 @@
 - [Resume](https://drive.google.com/file/d/18OZwr5tm1e3yjUir_q7hqNzlA6xDNjki/view?usp=sharing)
 - [Medium](https://medium.com/@anataliocs)
 
-### 🌎 Location:
-- 🇺🇸 Portland, OR, USA
-- 🕐 Timezone: PST UTC−07:00
-
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
 </a>
+
+### 🌎 Location:
+- 🇺🇸 Portland, OR, USA
+- 🕐 Timezone: PST UTC−07:00
 
 ### 🎉 StackOverflow Stats:
 
