@@ -5,6 +5,7 @@
 - DAOs
 - Oracles
 - UIs
+- Cross-Chain Messaging
 
 ### 💌 Web3 Dev Community:
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
