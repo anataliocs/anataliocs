@@ -1,4 +1,11 @@
-## Hi 👋 I'm a Web3 developer advocate 🌈, a software engineer 💻, technical educator 📹 and OSS contributor :shipit: 
+## Hi 👋 I'm a a Software Engineer 💻, web3 developer advocate 🌈, technical educator 📹 and OSS contributor :shipit: 
+
+Veteran distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
+
+I'm also a technical educator on LinkedIn Learning and Pluralsight.
+
+I also work in Developer Relations in the web3 industry and have a passion for developer education and advocacy.
+
 🔭 I’m currently working on Solidity Workshops that demonstrate how to build sample reference applications demonstrating concepts such as:
 - DeFi Primitives
 - NFTs
