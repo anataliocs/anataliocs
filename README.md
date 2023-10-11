@@ -60,10 +60,6 @@ I also work in Developer Relations in the web3 industry and have a passion for d
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anataliocs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-Total Stars
-
-<img src="https://img.shields.io/github/stars/anataliocs?label=Stars" alt="stars">
-
 ### 🎉 StackOverflow Stats:
 
 <a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
