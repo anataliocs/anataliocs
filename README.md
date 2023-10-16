@@ -1,4 +1,4 @@
-## Hi 👋 I'm a a Software Engineer 💻, web3 developer advocate 🌈, technical educator 📹 and OSS contributor :shipit: 
+## 👋 Software Engineer 💻, web3 developer advocate 🌈, technical educator 📹 and OSS contributor :shipit: 
 
 Veteran distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
 
