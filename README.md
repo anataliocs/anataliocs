@@ -6,14 +6,14 @@ I'm also a technical educator on LinkedIn Learning and Pluralsight.
 
 I've also worked in Developer Relations and have a passion for developer education and technology advocacy.
 
-### 💌 Web3 Dev Community:
+### 💌 Web3 Dev Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
 - [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
-### 💻 Content Samples:
+### 💻 Content Samples
 - ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion: https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726
 - Hands-On Getting Started with the Infura NFT API and SDK Technical Guide:  [Live Coding Tutorial with the Infura NFT API and SDK](https://www.youtube.com/watch?v=FrR9bF6S_fg)
 - I was a guest on the CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
@@ -32,7 +32,7 @@ I've also worked in Developer Relations and have a passion for developer educati
  - [Reactive Spring](https://linkedin-learning.pxf.io/19QKz)
  - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
 
-### 📢 Connect:
+### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - [Personal Website](https://chris-anatalio.dev/)
 - [Telegram](https://t.me/anataliocs/)
@@ -44,14 +44,14 @@ I've also worked in Developer Relations and have a passion for developer educati
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
 </a>
 
-### 🌎 Location:
+### 🌎 Location
 - 🇺🇸 Portland, OR, USA
 - 🕐 Timezone: PST UTC−07:00
 
-### 🎉 Github Stats:
+### 🎉 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anataliocs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-### 🎉 StackOverflow Stats:
+### 🎉 StackOverflow Stats
 
 <a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
