@@ -34,8 +34,7 @@ I've also worked in Developer Relations and have a passion for developer educati
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
-- [Personal Website](https://chris-anatalio.dev/)
-- [Telegram](https://t.me/anataliocs/)
+- [Website](https://chris-anatalio.dev/)
 - [Wellfound](https://wellfound.com/u/canatalio)
 - [Resume](https://drive.google.com/file/d/18OZwr5tm1e3yjUir_q7hqNzlA6xDNjki/view?usp=sharing)
 - [Medium](https://medium.com/@anataliocs)
