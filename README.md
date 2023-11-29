@@ -1,10 +1,10 @@
-## 👋 Software Engineer 💻, Developer Advocate 🌈, Technical Educator 📹 and OSS contributor :shipit: 
+## 👋 Software Engineer 💻, Developer Advocate 🌈 and Technical Educator 📹
 
-Veteran distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
+Distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
 
 I'm also a technical educator on LinkedIn Learning and Pluralsight.
 
-I've also worked in Developer Relations and have a passion for developer education and technology advocacy.
+I've work in Developer Relations and have a passion for developer education and technology advocacy.
 
 ### 💌 Web3 Dev Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
@@ -16,21 +16,20 @@ I've also worked in Developer Relations and have a passion for developer educati
 ### 💻 Content Samples
 - ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion: https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726
 - Hands-On Getting Started with the Infura NFT API and SDK Technical Guide:  [Live Coding Tutorial with the Infura NFT API and SDK](https://www.youtube.com/watch?v=FrR9bF6S_fg)
-- I was a guest on the CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
+- CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
 - Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
 - Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
 - Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
 - Tutorial on how to use the Infura Sepolia Faucet:  https://www.youtube.com/watch?v=WkojkWkVdZY
-- Infura Community Call playlist:  https://www.youtube.com/watch?v=RE10V4_6XoU&list=PLctUQWU95qJPX6Mo6AWzKwTzJW0oenicy
 
 ### 🎓 Check out my courses on Linkedin Learning
+ - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot)
  - [JHipster: Build and DeploySpring Boot
    Microservices](https://linkedin-learning.pxf.io/jhipster-build-and-deploy-spring-boot-microservices)
  - [Reactive Java 8](https://linkedin-learning.pxf.io/reactive-java-8)
  - [Reactive Spring](https://linkedin-learning.pxf.io/19QKz)
- - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
