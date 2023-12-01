@@ -15,12 +15,11 @@ I've work in Developer Relations and have a passion for developer education and 
 
 ### 💻 Content Samples
 - ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion: https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726
-- Hands-On Getting Started with the Infura NFT API and SDK Technical Guide:  [Live Coding Tutorial with the Infura NFT API and SDK](https://www.youtube.com/watch?v=FrR9bF6S_fg)
 - CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
 - Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
 - Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
-- Video describing how to work with the Infura NFT API: https://www.youtube.com/watch?v=ERV_FbCDBIQ
 - Tutorial on how to use the Infura Sepolia Faucet:  https://www.youtube.com/watch?v=WkojkWkVdZY
+- ETH Denver #BUIDL How to Win a 2023 Bounty: https://www.youtube.com/watch?v=UIGueyaRVkc
 
 ### 🎓 Check out my courses on Linkedin Learning
  - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
