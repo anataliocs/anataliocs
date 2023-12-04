@@ -1,5 +1,7 @@
 ## 👋 Software Engineer 💻, Developer Advocate 🌈 and Technical Educator 📹
 
+Currently working on a Web3 course for Pluralsight!
+
 Distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
 
 I'm also a technical educator on LinkedIn Learning and Pluralsight.
