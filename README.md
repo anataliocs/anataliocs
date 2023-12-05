@@ -6,7 +6,7 @@ Distributed systems engineer with 12+ years of experience specializing in cloud-
 
 I'm also a technical educator on LinkedIn Learning and Pluralsight.
 
-I've work in Developer Relations and have a passion for developer education and technology advocacy.
+I work in Developer Relations and have a passion for developer education and technology advocacy.
 
 ### 💌 Web3 Dev Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
@@ -23,7 +23,7 @@ I've work in Developer Relations and have a passion for developer education and 
 - Tutorial on how to use the Infura Sepolia Faucet:  https://www.youtube.com/watch?v=WkojkWkVdZY
 - ETH Denver #BUIDL How to Win a 2023 Bounty: https://www.youtube.com/watch?v=UIGueyaRVkc
 
-### 🎓 Check out my courses on Linkedin Learning
+### 🎓 Check out my full-stack development courses on Linkedin Learning
  - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot)
@@ -31,6 +31,8 @@ I've work in Developer Relations and have a passion for developer education and 
    Microservices](https://linkedin-learning.pxf.io/jhipster-build-and-deploy-spring-boot-microservices)
  - [Reactive Java 8](https://linkedin-learning.pxf.io/reactive-java-8)
  - [Reactive Spring](https://linkedin-learning.pxf.io/19QKz)
+
+### 🎓 Pluralsight courses coming soon
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
