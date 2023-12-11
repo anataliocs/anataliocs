@@ -1,6 +1,6 @@
-## 👋 Software Engineer 💻, Developer Advocate 🌈 and Technical Educator 📹
+## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
-Currently working on a Web3 course for Pluralsight!
+*Currently:* working on a Web3 course for Pluralsight!
 
 Distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
 
@@ -56,3 +56,5 @@ I work in Developer Relations and have a passion for developer education and tec
 ### 🎉 StackOverflow Stats
 
 <a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+👋
