@@ -24,13 +24,13 @@ I work in Developer Relations and have a passion for developer education and tec
 - ETH Denver #BUIDL How to Win a 2023 Bounty: https://www.youtube.com/watch?v=UIGueyaRVkc
 
 ### 🎓 Check out my full-stack development courses on Linkedin Learning
- - [Building a Reactive App with Angular and SpringBoot 2](https://linkedin-learning.pxf.io/full-stack-reactive-app-java-spring-angular)
+ - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
-   Spring Boot](https://linkedin-learning.pxf.io/building-a-full-stack-app-with-angular-2-plus-and-spring-boot)
+   Spring Boot](https://www.linkedin.com/learning/building-a-full-stack-app-with-angular-2-plus-and-spring-boot/welcome?u=2125562)
  - [JHipster: Build and DeploySpring Boot
-   Microservices](https://linkedin-learning.pxf.io/jhipster-build-and-deploy-spring-boot-microservices)
- - [Reactive Java 8](https://linkedin-learning.pxf.io/reactive-java-8)
- - [Reactive Spring](https://linkedin-learning.pxf.io/19QKz)
+   Microservices](https://www.linkedin.com/learning/jhipster-build-and-deploy-spring-boot-microservices/welcome?u=2125562)
+ - [Reactive Java 8](https://www.linkedin.com/learning/reactive-programming-with-java-8/welcome?u=2125562)
+ - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
 
 ### 🎓 Pluralsight courses coming soon
 
