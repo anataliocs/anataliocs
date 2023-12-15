@@ -1,6 +1,6 @@
 ## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
-*Currently:* working on a Web3 course for Pluralsight!
+Developer Advocate @ Spheron Network
 
 Distributed systems engineer with 12+ years of experience specializing in cloud-native, containerized microservices deployed via a CI/CD pipeline.
 
