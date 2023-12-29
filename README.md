@@ -1,6 +1,6 @@
 ## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
-Developer Advocate @ Spheron Network
+Developer Advocate @ [Spheron Network](https://spheron.network/)
 
 Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
 
