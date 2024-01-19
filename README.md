@@ -20,6 +20,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - ETH Denver #BUIDL How to Win a 2023 Bounty: https://www.youtube.com/watch?v=UIGueyaRVkc
 
 ### 🎓 Check out my full-stack development courses on Linkedin Learning
+ - [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://www.linkedin.com/learning/building-a-full-stack-app-with-angular-2-plus-and-spring-boot/welcome?u=2125562)
