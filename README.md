@@ -11,16 +11,16 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
-### 💻 Content Samples
-- ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion: https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726
-- CoinMarketCap podcast discussing the Ethereum Merge: https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained
-- Article demonstrating differences between different NFT standards: https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155
-- Video describing NFTs and their utility in simple terms: https://www.youtube.com/watch?v=fXEIUREpDgA
-- Tutorial on how to use the Infura Sepolia Faucet:  https://www.youtube.com/watch?v=WkojkWkVdZY
-- ETH Denver #BUIDL How to Win a 2023 Bounty: https://www.youtube.com/watch?v=UIGueyaRVkc
+### 💻 Developer Content 
+- [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
+- [ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion](https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726)
+- [CoinMarketCap podcast discussing the Ethereum Merge](https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained)
+- [Article demonstrating differences between different NFT standards](https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155)
+- [Video describing NFTs and their utility in simple terms](https://www.youtube.com/watch?v=fXEIUREpDgA)
+- [Tutorial on how to use the Infura Sepolia Faucet](https://www.youtube.com/watch?v=WkojkWkVdZY)
+- [ETH Denver #BUIDL How to Win a 2023 Bounty](https://www.youtube.com/watch?v=UIGueyaRVkc)
 
 ### 🎓 Check out my full-stack development courses on Linkedin Learning
- - [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://www.linkedin.com/learning/building-a-full-stack-app-with-angular-2-plus-and-spring-boot/welcome?u=2125562)
