@@ -12,6 +12,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
 ### 💻 Developer Content 
+- [Twitter Space Recap with Shardeum](https://blog.spheron.network/twitter-space-recap-spheron-x-shardeum-solving-the-scalability-trilema-and-operating-community-owned-decentralized-infrastructure)
 - [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
 - [ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion](https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726)
 - [CoinMarketCap podcast discussing the Ethereum Merge](https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained)
