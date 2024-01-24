@@ -11,7 +11,8 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
 
-### 💻 Developer Content 
+### 💻 Developer Content
+- [Deploy and Stake a Shardeum Validator on Spheron in Minutes](https://blog.spheron.network/deploy-and-stake-a-shardeum-validator-on-spheron-in-minutes)
 - [Try DragonflyDB on Spheron for a ~30x Cache Speed Boost!](https://blog.spheron.network/try-dragonflydb-on-spheron-for-a-30x-cache-speed-boost)
 - [Top Up your Spheron Compute Balance with a Web3 Wallet](https://blog.spheron.network/top-up-your-spheron-compute-balance-with-a-web3-wallet)
 - [Twitter Space Recap with Shardeum](https://blog.spheron.network/twitter-space-recap-spheron-x-shardeum-solving-the-scalability-trilema-and-operating-community-owned-decentralized-infrastructure)
