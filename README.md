@@ -22,7 +22,6 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [Article demonstrating differences between different NFT standards](https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155)
 - [Video describing NFTs and their utility in simple terms](https://www.youtube.com/watch?v=fXEIUREpDgA)
 - [Tutorial on how to use the Infura Sepolia Faucet](https://www.youtube.com/watch?v=WkojkWkVdZY)
-- [ETH Denver #BUIDL How to Win a 2023 Bounty](https://www.youtube.com/watch?v=UIGueyaRVkc)
 
 ### 🎓 Check out my full-stack development courses on Linkedin Learning
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
