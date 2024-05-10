@@ -11,9 +11,6 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 
 ### 💻 Developer Content
 - [ETH Denver:  Building Community Owned & Funded Virtual Infrastructure With Spheron ](https://www.youtube.com/watch?v=nyhw-KNx12k)
-- [Deploy and Stake a Shardeum Validator on Spheron in Minutes](https://blog.spheron.network/deploy-and-stake-a-shardeum-validator-on-spheron-in-minutes)
-- [Try DragonflyDB on Spheron for a ~30x Cache Speed Boost!](https://blog.spheron.network/try-dragonflydb-on-spheron-for-a-30x-cache-speed-boost)
-- [Top Up your Spheron Compute Balance with a Web3 Wallet](https://blog.spheron.network/top-up-your-spheron-compute-balance-with-a-web3-wallet)
 - [Twitter Space Recap with Shardeum](https://blog.spheron.network/twitter-space-recap-spheron-x-shardeum-solving-the-scalability-trilema-and-operating-community-owned-decentralized-infrastructure)
 - [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
 - [ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion](https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726)
