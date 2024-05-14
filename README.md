@@ -29,6 +29,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
  - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
 
 ### 🎓 Pluralsight courses coming soon
+ - Web3 Infrastructure and Development Tools
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
