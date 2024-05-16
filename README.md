@@ -8,6 +8,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
 - [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO](https://learnweb3.io/u/chris-anatalio.eth)
+- [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
 
 ### 💻 Developer Content
 - [ETH Denver:  Building Community Owned & Funded Virtual Infrastructure With Spheron ](https://www.youtube.com/watch?v=nyhw-KNx12k)
