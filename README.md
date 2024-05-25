@@ -30,7 +30,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
  - [Reactive Java 8](https://www.linkedin.com/learning/reactive-programming-with-java-8/welcome?u=2125562)
  - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
 
-### 🎓 Pluralsight courses coming soon
+### 🎓 Pluralsight Courses 
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
 
 ### 📢 Connect
