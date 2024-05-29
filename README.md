@@ -1,4 +1,4 @@
-![image](https://github.com/anataliocs/anataliocs/assets/4750426/194e1468-3dfb-4b77-a867-cece6132dea6)## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
+## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
 Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
 
@@ -31,8 +31,8 @@ Distributed systems engineer with 12+ years of experience, technical educator on
  - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
 
 ### 🎓 Pluralsight Courses 
-![Screenshot at May 28 23-42-10](https://github.com/anataliocs/anataliocs/assets/4750426/55aad4fd-7b97-4976-89ed-53a0cbbf459c)
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
+ - ![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
