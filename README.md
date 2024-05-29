@@ -1,4 +1,4 @@
-## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
+![image](https://github.com/anataliocs/anataliocs/assets/4750426/194e1468-3dfb-4b77-a867-cece6132dea6)## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
 Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
 
@@ -21,7 +21,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [Video describing NFTs and their utility in simple terms](https://www.youtube.com/watch?v=fXEIUREpDgA)
 - [Tutorial on how to use the Infura Sepolia Faucet](https://www.youtube.com/watch?v=WkojkWkVdZY)
 
-### 🎓 Check out my full-stack development courses on Linkedin Learning
+### 🎓 Linkedin Learning Full-stack dev courses
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://www.linkedin.com/learning/building-a-full-stack-app-with-angular-2-plus-and-spring-boot/welcome?u=2125562)
@@ -31,6 +31,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
  - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
 
 ### 🎓 Pluralsight Courses 
+![Screenshot at May 28 23-42-10](https://github.com/anataliocs/anataliocs/assets/4750426/55aad4fd-7b97-4976-89ed-53a0cbbf459c)
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
 
 ### 📢 Connect
