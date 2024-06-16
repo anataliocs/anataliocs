@@ -41,6 +41,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [Resume](https://drive.google.com/file/d/18OZwr5tm1e3yjUir_q7hqNzlA6xDNjki/view?usp=sharing)
 - [Medium](https://medium.com/@anataliocs)
 - [ThirdWork](https://www.thirdwork.xyz/roles-freelancers/chris-anatalio)
+- [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
