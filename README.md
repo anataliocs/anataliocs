@@ -1,5 +1,7 @@
 ## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
+Senior Developer Advocate @ Stellar
+
 Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
 
 ### 💌 Web3 Dev Community
