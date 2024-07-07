@@ -1,6 +1,6 @@
 ## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
 
-Senior Developer Advocate @Stellar
+Senior Developer Advocate @ Stellar Development Foundation
 
 Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
 
