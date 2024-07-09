@@ -4,6 +4,8 @@ Senior Developer Advocate @ Stellar Development Foundation
 
 Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
 
+:computer: _Currently working on Soroban Rust Smart Contract Tutorials!_
+
 ### 💌 Web3 Dev Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
