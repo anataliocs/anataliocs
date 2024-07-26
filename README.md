@@ -25,6 +25,10 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [Video describing NFTs and their utility in simple terms](https://www.youtube.com/watch?v=fXEIUREpDgA)
 - [Tutorial on how to use the Infura Sepolia Faucet](https://www.youtube.com/watch?v=WkojkWkVdZY)
 
+### 🎓 Pluralsight Courses 
+ - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
+ - ![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)
+
 ### 🎓 Linkedin Learning Full-stack dev courses
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
@@ -33,10 +37,6 @@ Distributed systems engineer with 12+ years of experience, technical educator on
    Microservices](https://www.linkedin.com/learning/jhipster-build-and-deploy-spring-boot-microservices/welcome?u=2125562)
  - [Reactive Java 8](https://www.linkedin.com/learning/reactive-programming-with-java-8/welcome?u=2125562)
  - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
-
-### 🎓 Pluralsight Courses 
- - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
- - ![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
