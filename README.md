@@ -17,7 +17,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 
 ### 💻 Developer Content
 - [ETH Denver:  Building Community Owned & Funded Virtual Infrastructure With Spheron ](https://www.youtube.com/watch?v=nyhw-KNx12k)
-- [Twitter Space Recap with Shardeum](https://blog.spheron.network/twitter-space-recap-spheron-x-shardeum-solving-the-scalability-trilema-and-operating-community-owned-decentralized-infrastructure)
+- [WEB2++ Practical Blockchain without the Hype](https://www.youtube.com/watch?v=NFherBDv0G4)
 - [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
 - [ConsenSys Connect Devcon Bogota 2022, Celebrating the Merge Panel Discussion](https://www.youtube.com/live/iE8CGzadKZ8?si=IWPhpKZEuYqW9pWc&t=16726)
 - [CoinMarketCap podcast discussing the Ethereum Merge](https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained)
