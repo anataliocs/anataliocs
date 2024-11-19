@@ -16,6 +16,7 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [Overmind](https://overmind.xyz/@anataliocs)
 
 ### 💻 Developer Content
+- [Stellar & Mobile Money](https://www.youtube.com/watch?v=1XEY3jW7mRg)
 - [ETH Denver:  Building Community Owned & Funded Virtual Infrastructure With Spheron ](https://www.youtube.com/watch?v=nyhw-KNx12k)
 - [WEB2++ Practical Blockchain without the Hype](https://www.youtube.com/watch?v=NFherBDv0G4)
 - [Deploy Your Shardeum Validator Node with Spheron - Quick & Easy!](https://www.youtube.com/watch?v=uNb-_jl7XRs)
