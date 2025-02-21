@@ -2,9 +2,9 @@
 
 Senior Developer Advocate @ [Stellar Development Foundation](https://developers.stellar.org/docs/build/smart-contracts/getting-started)
 
-Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Relations with a focus on Web3.
+Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Advocate with a focus on Web3.
 
-:computer: _Currently working on [Soroban](https://stellar.org/soroban) Rust [Smart Contract Tutorials](https://developers.stellar.org/docs/build/smart-contracts/getting-started)!_
+:computer: _Currently working on [Stellar](https://stellar.org/soroban) [Smart Contract Tutorials](https://developers.stellar.org/docs/build/smart-contracts/getting-started)!_
 
 ### 💌 Web3 Developer Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
