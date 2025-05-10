@@ -1,8 +1,34 @@
 <h3 align="center">Senior Developer Advocate @ Stellar Development Foundation</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/anataliocs/">
-    <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg" />
-  </a>
+  <span style="margin: 0 5px;">
+    <a href="https://www.linkedin.com/in/anataliocs/">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/>
+    </a>
+  </span>
+  <span style="margin: 0 5px;">
+    <a href="https://x.com/CAnatalio">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" />
+    </a>
+  </span>
+
+  <span style="margin: 0 5px;">
+    <a href="https://x.com/CAnatalio">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" />
+    </a>
+  </span>
+
+  <span style="margin: 0 5px;">
+    <a href="https://medium.com/@anataliocs">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" />
+    </a>  
+  </span>
+
+  <span style="margin: 0 5px;">
+    <a href="https://dev.to/anataliocs">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" />
+    </a>  
+  </span>
+
 </p>
 <h6 align="center">Distributed systems engineer, technical educator(LinkedIn Learning/Pluralsight) and Developer Advocate(Web3)</h6>
 
