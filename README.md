@@ -1,3 +1,13 @@
+<h3 align="center">Senior Developer Advocate @ Stellar Development Foundation</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anataliocs/">
+    <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg" />
+  </a>
+</p>
+<h6 align="center">Distributed systems engineer, technical educator(LinkedIn Learning/Pluralsight) and Developer Advocate(Web3)</h6>
+
+---
+
 <h3 align="center">Web3</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,9 +34,6 @@
 </p>
 
 ---
-
-Senior Developer Advocate @ [Stellar Development Foundation](https://developers.stellar.org/docs/build/smart-contracts/getting-started)
-_Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Advocate with a focus on Web3._
 
 ### 💌 Web3 Developer Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
