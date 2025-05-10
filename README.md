@@ -1,3 +1,5 @@
+<link href="readme.css" rel="stylesheet" type="text/css" media="all"></link>
+
 <h3 align="center">Senior Developer Advocate @ Stellar Development Foundation</h3>
 <p align="center">
   <span style="margin: 0 5px;">
