@@ -1,10 +1,32 @@
-## 👋 Software Engineer 💻 Developer Advocate 🌈 Technical Educator 📹
+<h3 align="center">Web3</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,wasm" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,idea,java,nestjs,nodejs,reactivex,webstorm" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">DevOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,githubactions,linux" />
+  </a>
+</p>
+
+---
 
 Senior Developer Advocate @ [Stellar Development Foundation](https://developers.stellar.org/docs/build/smart-contracts/getting-started)
-
-Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Advocate with a focus on Web3.
-
-:computer: _Currently working on [Stellar](https://stellar.org/soroban) [Smart Contract Tutorials](https://developers.stellar.org/docs/build/smart-contracts/getting-started)!_
+_Distributed systems engineer with 12+ years of experience, technical educator on LinkedIn Learning and Pluralsight and Developer Advocate with a focus on Web3._
 
 ### 💌 Web3 Developer Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
@@ -24,7 +46,6 @@ Distributed systems engineer with 12+ years of experience, technical educator on
 - [CoinMarketCap podcast discussing the Ethereum Merge](https://coinmarketcap.com/alexandria/article/special-podcast-ethereum-s-merge-explained)
 - [Article demonstrating differences between different NFT standards](https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155)
 - [Video describing NFTs and their utility in simple terms](https://www.youtube.com/watch?v=fXEIUREpDgA)
-- [Tutorial on how to use the Infura Sepolia Faucet](https://www.youtube.com/watch?v=WkojkWkVdZY)
 
 ### 🎓 Pluralsight Courses 
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
