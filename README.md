@@ -73,6 +73,9 @@
 - [Overmind](https://overmind.xyz/@anataliocs)
 
 ### 💻 Developer Content
+- [Stellar 101: Going from 0 to 1 with Stellar & Soroban](https://www.youtube.com/watch?v=xnQNHL4CHCQ)
+- [Stellar Accounts]https://www.youtube.com/watch?v=Lxg61mH-P6o
+- [Soroban Smart Contract Walkthrough](https://www.youtube.com/watch?v=TB7ORkbxcpQ)
 - [Stellar & Mobile Money](https://www.youtube.com/watch?v=1XEY3jW7mRg)
 - [ETH Denver:  Building Community Owned & Funded Virtual Infrastructure With Spheron ](https://www.youtube.com/watch?v=nyhw-KNx12k)
 - [WEB2++ Practical Blockchain without the Hype](https://www.youtube.com/watch?v=NFherBDv0G4)
