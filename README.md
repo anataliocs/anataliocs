@@ -14,7 +14,7 @@
   </span>&nbsp;
 
   <span style="margin: 0 5px;">
-    <a href="https://x.com/CAnatalio">
+    <a href="https://stackoverflow.com/users/555177/anataliocs">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" />
     </a>
   </span>&nbsp;
