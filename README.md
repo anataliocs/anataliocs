@@ -6,24 +6,28 @@
     <a href="https://www.linkedin.com/in/anataliocs/">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/>
     </a>
-  </span>&nbsp;
+  </span> 
+  &nbsp;
   <span style="margin: 0 5px;">
     <a href="https://x.com/CAnatalio">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" />
     </a>
-  </span>&nbsp;
+  </span>
+  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://stackoverflow.com/users/555177/anataliocs">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" />
     </a>
-  </span>&nbsp;
+  </span>
+  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://medium.com/@anataliocs">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" />
     </a>  
-  </span>&nbsp;
+  </span>
+  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://dev.to/anataliocs">
@@ -63,7 +67,7 @@
 
 ---
 
-### 💌 Web3 Developer Community
+### 💌 Web3 Community
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
@@ -72,7 +76,7 @@
 - [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
 - [Overmind](https://overmind.xyz/@anataliocs)
 
-### 💻 Developer Content
+### 💻 Technical Content
 - [Stellar 101: Going from 0 to 1 with Stellar & Soroban](https://www.youtube.com/watch?v=xnQNHL4CHCQ)
 - [Stellar Accounts](https://www.youtube.com/watch?v=Lxg61mH-P6o)
 - [Soroban Smart Contract Walkthrough](https://www.youtube.com/watch?v=TB7ORkbxcpQ)
@@ -89,7 +93,7 @@
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
  - ![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)
 
-### 🎓 Linkedin Learning Full-stack dev courses
+### 🎓 Linkedin Learning Full-stack Dev Courses
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://www.linkedin.com/learning/building-a-full-stack-app-with-angular-2-plus-and-spring-boot/welcome?u=2125562)
@@ -115,7 +119,7 @@
 - 🇺🇸 Portland, OR, USA
 - 🕐 Timezone: PST UTC−07:00
 
-### 🎉 Github Stats
+### 🎉 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anataliocs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
