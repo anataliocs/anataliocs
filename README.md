@@ -7,7 +7,7 @@
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/>
     </a>
   </span> 
-  &nbsp;
+
   <span style="margin: 0 5px;">
     <a href="https://x.com/CAnatalio">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" />
