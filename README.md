@@ -94,7 +94,7 @@
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
  - ![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)
 
-### 🎓 Linkedin Learning Full-stack Dev Courses
+### 🎓 Linkedin Learning Full-Stack Dev Courses
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
  - [Building a Full-Stack App with Angular 2+ and
    Spring Boot](https://www.linkedin.com/learning/building-a-full-stack-app-with-angular-2-plus-and-spring-boot/welcome?u=2125562)
@@ -107,8 +107,6 @@
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - [Website](https://chris-anatalio.dev/)
 - [Wellfound](https://wellfound.com/u/canatalio)
-- [Resume](https://drive.google.com/file/d/18OZwr5tm1e3yjUir_q7hqNzlA6xDNjki/view?usp=sharing)
-- [Medium](https://medium.com/@anataliocs)
 - [ThirdWork](https://www.thirdwork.xyz/roles-freelancers/chris-anatalio)
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 
@@ -118,7 +116,7 @@
 
 ### 🌎 Location
 - 🇺🇸 Portland, OR, USA
-- 🕐 Timezone: PST UTC−07:00
+- 🕐 Timezone: PST/PDT UTC−07:00
 
 ### 🎉 GitHub Stats
 
@@ -128,7 +126,7 @@
 
 <img src="https://img.shields.io/github/stars/anataliocs?label=Stars" alt="stars">
 
-### 🎉 StackOverflow Stats
+### 🎉 StackOverflow
 
 <a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
