@@ -7,28 +7,24 @@
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/>
     </a>
   </span>
-  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://x.com/CAnatalio">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" />
     </a>
   </span>
-  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://stackoverflow.com/users/555177/anataliocs">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" />
     </a>
   </span>
-  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://medium.com/@anataliocs">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" />
     </a>  
   </span>
-  &nbsp;
 
   <span style="margin: 0 5px;">
     <a href="https://dev.to/anataliocs">
