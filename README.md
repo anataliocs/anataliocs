@@ -102,7 +102,7 @@
 
 ### 📢 Connect
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
-- [Website](https://chris-anatalio.dev/)
+- [Web3 Consulting](https://www.hella.website)
 - [Wellfound](https://wellfound.com/u/canatalio)
 - [ThirdWork](https://www.thirdwork.xyz/roles-freelancers/chris-anatalio)
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
