@@ -1,7 +1,8 @@
 <link href="readme.css" rel="stylesheet" type="text/css" media="all"></link>
 
-<h3 align="center">Currently in Polkadot Ecosystem, Ex ConsenSys, Ex Stellar Development Foundation</h3>
+<h3 align="center">Chris Anatalio</h3>
 <p align="center">
+  
   <span style="margin: 0 5px;">
     <a href="https://www.linkedin.com/in/anataliocs/">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/>
@@ -34,6 +35,10 @@
 
 </p>
 <h6 align="center">Veteran Software Engineer, technical educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
+
+<p align="center">
+  <img width="625" height="212" alt="291520797-5fd22ef9-bb01-4801-ae7d-87b888f170fd" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
+</p>
 
 ---
 
