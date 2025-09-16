@@ -77,7 +77,7 @@
 - [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO - Ethereum Developer Degree: Senior 🎓 ](https://learnweb3.io/u/chris-anatalio.eth)
 - [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
-- [SuperTeam]([https://overmind.xyz/@anataliocs](https://earn.superteam.fun/t/chris-anatalio-sol))
+- [SuperTeam](https://earn.superteam.fun/t/chris-anatalio-sol)
 
 ### 💻 Technical Content
 - [Stellar 101: Going from 0 to 1 with Stellar & Soroban](https://www.youtube.com/watch?v=xnQNHL4CHCQ)
