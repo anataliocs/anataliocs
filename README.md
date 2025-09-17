@@ -94,7 +94,7 @@
 
 ### 🎓 Pluralsight Courses 
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
- - ![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)
+ - [![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
 
 ### 🎓 Linkedin Learning Full-Stack Dev Courses
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
@@ -116,10 +116,6 @@
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
 </a>
 
-### 🌎 Location
-- 🇺🇸 Portland, OR, USA
-- 🕐 Timezone: PST/PDT UTC−07:00
-
 ### 🎉 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anataliocs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
@@ -130,7 +126,7 @@
 
 ### 🎉 StackOverflow
 
-<a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for anataliocs on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange" title="profile for anataliocs on Stack Exchange"></a>
 
 ----
 
