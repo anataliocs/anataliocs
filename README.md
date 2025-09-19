@@ -23,7 +23,7 @@
     <a href="https://dev.to/anataliocs">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" /></a></span>
 </p>
-<h6 align="center">Veteran Software Engineer, technical educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
+<h6 align="center">Veteran Software Engineer, Technical Educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
 
 <p align="center">
   <img width="156" height="54" alt="291520797-5fd22ef9-bb01-4801-ae7d-87b888f170fd" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
@@ -59,11 +59,10 @@
 ---
 
 ### 💌 Web3
-- [Polkadot Blockchain Academy - Cohort 7(dApps Track)](https://polkadot.academy/pba-campus-bali/)
+- [Polkadot Blockchain Academy - Cohort 7(dApps Track) 🎓 ](https://polkadot.academy/pba-campus-bali/)
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
-- [CryptoNomads #218](https://opensea.io/assets/ethereum/0x951416cb5a9c5379ae696acb07cb8e25aefad370/218)
 - [LearnWeb3DAO - Ethereum Developer Degree: Senior 🎓 ](https://learnweb3.io/u/chris-anatalio.eth)
 - [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
 - [SuperTeam](https://earn.superteam.fun/t/chris-anatalio-sol)
