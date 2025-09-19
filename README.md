@@ -5,34 +5,23 @@
   
   <span style="margin: 0 5px; text-decoration: none;">
     <a href="https://www.linkedin.com/in/anataliocs/" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/>
-    </a>
-  </span>
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/></a></span>
 
   <span style="margin: 0 5px; text-decoration: none;">
     <a href="https://x.com/CAnatalio" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" />
-    </a>
-  </span>
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" /></a></span>
 
   <span style="margin: 0 5px;">
     <a href="https://stackoverflow.com/users/555177/anataliocs">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" />
-    </a>
-  </span>
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" /></a></span>
 
   <span style="margin: 0 5px;">
     <a href="https://medium.com/@anataliocs">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" />
-    </a>  
-  </span>
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" /></a></span>
 
   <span style="margin: 0 5px;">
     <a href="https://dev.to/anataliocs">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" />
-    </a>  
-  </span>
-
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" /></a></span>
 </p>
 <h6 align="center">Veteran Software Engineer, technical educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
 
