@@ -92,7 +92,7 @@
 - [Article demonstrating differences between different NFT standards](https://blog.infura.io/post/comparing-nft-standards-erc-721-vs-erc-721a-vs-erc-1155)
 - [Video describing NFTs and their utility in simple terms](https://www.youtube.com/watch?v=fXEIUREpDgA)
 
-### 🎓 Pluralsight Courses 
+### 🎓 Pluralsight Technical Courses 
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
  - [![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
 
@@ -113,7 +113,7 @@
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 
 <a href="https://twitter.com/CAnatalio">
- <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio" />
+ <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio on Twitter" title="canatalio on Twitter"/>
 </a>
 
 ### 🎉 GitHub Stats
