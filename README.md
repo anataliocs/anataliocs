@@ -4,29 +4,30 @@
 <p align="center">
   
   <span style="margin: 0 5px; text-decoration: none;">
-    <a href="https://www.linkedin.com/in/anataliocs/" style="text-decoration: none;"  title="canatalio on LinkedIn">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg"/></a></span>
+    <a href="https://www.linkedin.com/in/anataliocs/" style="text-decoration: none;"  title="Chris Anatalio on LinkedIn">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg" alt="LinkedIn svg logo for Chris Anatalio" /></a></span>
 
   <span style="margin: 0 5px; text-decoration: none;">
-    <a href="https://x.com/CAnatalio" style="text-decoration: none;" title="canatalio on Twitter">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" /></a></span>
+    <a href="https://x.com/CAnatalio" style="text-decoration: none;" title="Chris Anatalio or canatalio on Twitter">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/twitter.svg" alt="Twitter svg logo for Chris Anatalio or canatalio" /></a></span>
 
   <span style="margin: 0 5px;">
-    <a href="https://stackoverflow.com/users/555177/anataliocs" title="canatalio on StackOverflow">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" /></a></span>
+    <a href="https://stackoverflow.com/users/555177/anataliocs" title="Chris Anatalio or anataliocs on StackOverflow">
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/stackoverflow.svg" alt="StackOverflow svg logo for Chris Anatalio or anataliocs" /></a></span>
 
   <span style="margin: 0 5px;">
     <a href="https://medium.com/@anataliocs" title="canatalio on Medium">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" /></a></span>
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/medium.svg" alt="Medium svg logo for Chris Anatalio or anataliocs" /></a></span>
 
   <span style="margin: 0 5px;">
     <a href="https://dev.to/anataliocs" title="canatalio on Dev.to">
-      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" /></a></span>
+      <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" alt="Dev.to svg logo for Chris Anatalio" /></a></span>
 </p>
 <h6 align="center">Veteran Software Engineer, Technical Educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
 
 <p align="center">
-  <img width="156" height="54" alt="291520797-5fd22ef9-bb01-4801-ae7d-87b888f170fd" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" />
+  <img width="156" height="54" alt="291520797-5fd22ef9-bb01-4801-ae7d-87b888f170fd" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" 
+    title="Chris Anatalio Completed Polkadot Blockchain Academy Cohort 7(Bali)" alt="Completed Cohort 7(Bali) Polkadot Blockchain Academy image" />
 </p>
 
 ---
