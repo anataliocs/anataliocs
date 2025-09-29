@@ -35,7 +35,7 @@
 <h3 align="center">Web3</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,wasm" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,wasm" title="Web3 Skillset: Rust, Solidity, Typescript and WASM" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,idea,java,nestjs,nodejs,reactivex,webstorm" />
+    <img src="https://skillicons.dev/icons?i=gradle,idea,java,nestjs,nodejs,reactivex,webstorm" title="Backend Skillset: Java, NestJS, NodeJS and ReactiveX" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 <h3 align="center">DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,githubactions,linux"  title="DevOps Skillset: AWS, Docker, Bash and Linux"/>
   </a>
 </p>
 
