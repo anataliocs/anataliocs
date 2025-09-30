@@ -35,7 +35,8 @@
 <h3 align="center">Web3</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,wasm" title="Web3 Skillset: Rust, Solidity, Typescript and WASM" />
+    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,wasm" title="Web3 Skillset: Rust, Solidity, Typescript and WASM" 
+      alt="Web3 Skillset: Rust, Solidity, Typescript and WASM image" />
   </a>
 </p>
 
@@ -44,7 +45,8 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,idea,java,nestjs,nodejs,reactivex,webstorm" title="Backend Skillset: Java, NestJS, NodeJS and ReactiveX" />
+    <img src="https://skillicons.dev/icons?i=gradle,idea,java,nestjs,nodejs,reactivex,webstorm" title="Backend Skillset: Java, NestJS, NodeJS and ReactiveX"
+       alt="Backend Skillset: Java, NestJS, NodeJS and ReactiveX image" />
   </a>
 </p>
 
@@ -53,7 +55,8 @@
 <h3 align="center">DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,githubactions,linux"  title="DevOps Skillset: AWS, Docker, Bash and Linux"/>
+    <img src="https://skillicons.dev/icons?i=aws,bash,discord,docker,githubactions,linux" title="DevOps Skillset: AWS, Docker, Bash and Linux" 
+      alt="DevOps Skillset: AWS, Docker, Bash and Linux image" />
   </a>
 </p>
 
@@ -61,10 +64,10 @@
 
 ### 💌 Web3
 - [Polkadot Blockchain Academy - Cohort 7(dApps Track) 🎓 ](https://polkadot.academy/pba-campus-bali/)
+- [LearnWeb3DAO - Ethereum Developer Degree: Senior 🎓 ](https://learnweb3.io/u/chris-anatalio.eth)
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
-- [LearnWeb3DAO - Ethereum Developer Degree: Senior 🎓 ](https://learnweb3.io/u/chris-anatalio.eth)
 - [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
 - [SuperTeam](https://earn.superteam.fun/t/chris-anatalio-sol)
 
