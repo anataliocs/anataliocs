@@ -105,20 +105,32 @@
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 
 <a href="https://twitter.com/CAnatalio">
- <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" alt="canatalio on Twitter" title="canatalio on Twitter"/>
+ <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" 
+   alt="Chris Anatalio as @canatalio on Twitter" 
+   title="Chris Anatalio as @canatalio on Twitter"/>
 </a>
 
 ### 🎉 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anataliocs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anataliocs&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" 
+  alt="ovi" 
+  title="Chris Anatalio Stats as @anataliocs on Github" />
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/anataliocs?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/anataliocs?color=236ad3&style=for-the-badge&logo=github&label=Followers"
+  alt="Follow Chris Anatalio as @canatalio on Github" 
+  title="Follow Chris Anatalio as @canatalio on Github" />
 
-<img src="https://img.shields.io/github/stars/anataliocs?label=Stars" alt="stars">
+<img src="https://img.shields.io/github/stars/anataliocs?label=Stars" 
+  alt="Chris Anatalio Stars as @anataliocs on Github"
+  title="Chris Anatalio Stars as @anataliocs on Github" />
 
 ### 🎉 StackOverflow
 
-<a href="https://stackexchange.com/users/267167"><img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" alt="profile for anataliocs on Stack Exchange" title="profile for anataliocs on Stack Exchange"></a>
+<a href="https://stackexchange.com/users/267167">
+  <img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" 
+    alt="profile for anataliocs on Stack Exchange" 
+    title="Profile for anataliocs on Stack Exchange" />
+</a>
 
 ----
 
