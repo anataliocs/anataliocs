@@ -135,6 +135,10 @@
     title="Profile for anataliocs on Stack Exchange" />
 </a>
 
+### Algora
+
+<img src="https://algora.io/og/user/anataliocs" />
+
 ----
 
 ➕ [Add README Widgets to your Profile](https://github.com/rzashakeri/beautify-github-profile)
