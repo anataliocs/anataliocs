@@ -137,7 +137,9 @@
 
 ### Algora
 
-<img src="https://algora.io/og/user/anataliocs" />
+<a href="https://algora.io/profile/anataliocs">
+  <img src="https://algora.io/og/user/anataliocs" />
+</a>
 
 ----
 
