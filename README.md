@@ -105,6 +105,7 @@
 - [Wellfound](https://wellfound.com/u/canatalio)
 - [ThirdWork](https://www.thirdwork.xyz/roles-freelancers/chris-anatalio)
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
+- [Algora](https://algora.io/profile/anataliocs)
 
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" 
