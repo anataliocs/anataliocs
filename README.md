@@ -138,7 +138,9 @@
 ### Algora
 
 <a href="https://algora.io/profile/anataliocs">
-  <img src="https://algora.io/og/user/anataliocs" />
+  <img src="https://algora.io/og/user/anataliocs" 
+    alt="profile for anataliocs on Algora" 
+    title="Profile for anataliocs on Algora" />
 </a>
 
 ----
