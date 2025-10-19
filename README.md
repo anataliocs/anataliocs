@@ -107,6 +107,8 @@
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 - [Algora](https://algora.io/profile/anataliocs)
 
+----
+
 <a href="https://twitter.com/CAnatalio">
  <img src="https://img.shields.io/twitter/follow/canatalio?logo=twitter&style=for-the-badge" 
    alt="Chris Anatalio as @canatalio on Twitter" 
@@ -146,3 +148,4 @@
 ----
 
 ➕ [Add README Widgets to your Profile](https://github.com/rzashakeri/beautify-github-profile)
+
