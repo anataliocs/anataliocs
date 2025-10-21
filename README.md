@@ -1,5 +1,3 @@
-<link href="readme.css" rel="stylesheet" type="text/css" media="all"></link>
-
 <h3 align="center">Chris Anatalio</h3>
 <p align="center">
   
