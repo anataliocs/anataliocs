@@ -2,7 +2,7 @@
 <p align="center">
   
   <span style="margin: 0 5px; text-decoration: none;">
-    <a href="https://www.linkedin.com/in/anataliocs/" style="text-decoration: none;"  title="Chris Anatalio on LinkedIn">
+    <a href="https://www.linkedin.com/in/anataliocs/" style="text-decoration: none;" title="Chris Anatalio on LinkedIn">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/social/linkedin.svg" alt="LinkedIn svg logo for Chris Anatalio" /></a></span>
 
   <span style="margin: 0 5px; text-decoration: none;">
@@ -129,7 +129,7 @@
 
 ### 🎉 StackOverflow
 
-<a href="https://stackexchange.com/users/267167">
+<a href="https://stackexchange.com/users/267167" title="Chris Anatalio on algora as anataliocs">
   <img src="https://stackexchange.com/users/flair/267167.png" width="208" height="58" 
     alt="profile for anataliocs on Stack Exchange" 
     title="Profile for anataliocs on Stack Exchange" />
@@ -137,7 +137,7 @@
 
 ### Algora
 
-<a href="https://algora.io/profile/anataliocs">
+<a href="https://algora.io/profile/anataliocs" title="Chris Anatalio on algora as anataliocs">
   <img src="https://algora.io/og/user/anataliocs" 
     alt="profile for anataliocs on Algora" 
     title="Profile for anataliocs on Algora" />
