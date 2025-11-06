@@ -87,7 +87,8 @@
 
 ### 🎓 Pluralsight Technical Courses 
  - [Web3 Infrastructure and Development Tools](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
- - [![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
+
+[![gh](https://github.com/anataliocs/anataliocs/assets/4750426/4103c812-60db-415d-bde6-487c104090b7)](https://www.pluralsight.com/courses/web3-infrastructure-development-tools)
 
 ### 🎓 Linkedin Learning Full-Stack Dev Courses
  - [Building a Reactive App with Angular and SpringBoot 2](https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2)
