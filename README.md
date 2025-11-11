@@ -146,5 +146,6 @@
 ----
 
 ➕ [Add README Widgets to your Profile](https://github.com/rzashakeri/beautify-github-profile)
+
 ➕ [Skill Icons](https://skillicons.dev/)
 
