@@ -104,6 +104,7 @@
 - [ThirdWork](https://www.thirdwork.xyz/roles-freelancers/chris-anatalio)
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 - [Algora](https://algora.io/profile/anataliocs)
+- [Telegram](https://t.me/anataliocs)
 
 ----
 
