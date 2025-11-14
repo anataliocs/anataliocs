@@ -23,9 +23,11 @@
 <h6 align="center">Veteran Software Engineer, Technical Educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
 
 <p align="center">
-  <img width="156" height="54" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" 
-    title="Chris Anatalio Completed Polkadot Blockchain Academy Cohort 7(Bali)" 
-    alt="Completed Cohort 7(Bali) Polkadot Blockchain Academy image" />
+  <a href="https://drive.google.com/file/d/1Qj7mn16wD5JS4M_puBWeAFLPYPWBvt5G/view">
+    <img width="156" height="54" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" 
+      title="Chris Anatalio Completed Polkadot Blockchain Academy Cohort 7(Bali)" 
+      alt="Completed Cohort 7(Bali) Polkadot Blockchain Academy image" />
+  </a>  
 </p>
 
 ---
