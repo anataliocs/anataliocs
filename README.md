@@ -1,3 +1,4 @@
+<h6 align="center">Veteran Software Engineer, Technical Educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
 <p align="center">
   
   <span style="margin: 0 5px; text-decoration: none;">
@@ -20,14 +21,22 @@
     <a href="https://dev.to/anataliocs" title="canatalio on Dev.to">
       <img src="https://raw.githubusercontent.com/anataliocs/ColoredBadges/refs/heads/master/svg/blogs/devto.svg" alt="Dev.to svg logo for Chris Anatalio" /></a></span>
 </p>
-<h6 align="center">Veteran Software Engineer, Technical Educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
 
+<h6 align="center">PBA Cohort 7 Bali</h6>
 <p align="center">
   <a href="https://drive.google.com/file/d/1Qj7mn16wD5JS4M_puBWeAFLPYPWBvt5G/view">
     <img width="156" height="54" src="https://github.com/user-attachments/assets/8ad342ba-b189-4da9-be56-03a92dcb86b9" 
       title="Chris Anatalio Completed Polkadot Blockchain Academy Cohort 7(Bali)" 
       alt="Completed Cohort 7(Bali) Polkadot Blockchain Academy image" />
-  </a>  
+  </a>
+</p>
+<h6 align="center">LearnWeb3 DAO Ethereum Developer </h6>
+<p align="center">
+  <a href="[https://drive.google.com/file/d/1Qj7mn16wD5JS4M_puBWeAFLPYPWBvt5G/view](https://learnweb3.io/u/chris-anatalio.eth)">
+  <img height="102" src="https://github.com/user-attachments/assets/d49449a7-a0e4-4e2c-afad-35e278a58f4c" 
+    title="Ethereum Developer Degree - Senior"
+    alt="Ethereum Developer Degree - Senior" />
+  </a>
 </p>
 
 ---
