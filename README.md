@@ -32,7 +32,7 @@
 </p>
 <h6 align="center">LearnWeb3 DAO Ethereum Developer </h6>
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1Qj7mn16wD5JS4M_puBWeAFLPYPWBvt5G/view](https://learnweb3.io/u/chris-anatalio.eth)">
+  <a href="https://learnweb3.io/u/chris-anatalio.eth">
   <img height="102" src="https://github.com/user-attachments/assets/d49449a7-a0e4-4e2c-afad-35e278a58f4c" 
     title="Ethereum Developer Degree - Senior"
     alt="Ethereum Developer Degree - Senior" />
