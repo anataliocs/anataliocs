@@ -79,7 +79,6 @@
 - [ 🎓 LearnWeb3DAO - Ethereum Developer Degree: Senior - COMPLETED](https://learnweb3.io/u/chris-anatalio.eth)
 - [Cyfrin Updraft Profile](https://profiles.cyfrin.io/u/anataliocs)
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
-- [chris-anatalio.lens](https://www.lensfrens.xyz/chris-anatalio.lens)
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
 - [DoraHacks Profile](https://dorahacks.io/hacker/chris-anatalio)
 - [SuperTeam Profile](https://earn.superteam.fun/t/chris-anatalio-sol)
