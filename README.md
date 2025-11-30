@@ -74,6 +74,14 @@
 
 ---
 
+<p align="center">
+    <a href="https://www.codementor.io/@anataliocs?refer=badge">
+    <img src="https://www.codementor.io/m-badges/anataliocs/book-session.svg" 
+      title="Contact me on Codementor" 
+      alt="Contact me on Codementor" />
+  </a>
+</p>
+
 ### 💌 Web3
 - [ 🎓 Polkadot Blockchain Academy - Cohort 7(dApps Track) - COMPLETED](https://drive.google.com/file/d/1Qj7mn16wD5JS4M_puBWeAFLPYPWBvt5G/view)
 - [ 🎓 LearnWeb3DAO - Ethereum Developer Degree: Senior - COMPLETED](https://learnweb3.io/u/chris-anatalio.eth)
@@ -116,6 +124,8 @@
 - [HackerRank](https://www.hackerrank.com/profile/anataliocs)
 - [Algora](https://algora.io/profile/anataliocs)
 - [Telegram](https://t.me/anataliocs)
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/anataliocs/im-a-cm-b.svg)](https://www.codementor.io/@anataliocs?refer=badge)
 
 ----
 
