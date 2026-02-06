@@ -85,11 +85,11 @@
 ### 💌 Web3
 - [ 🎓 Polkadot Blockchain Academy - Cohort 7(dApps Track) - COMPLETED](https://drive.google.com/file/d/1Qj7mn16wD5JS4M_puBWeAFLPYPWBvt5G/view)
 - [ 🎓 LearnWeb3DAO - Ethereum Developer Degree: Senior - COMPLETED](https://learnweb3.io/u/chris-anatalio.eth)
-- [Cyfrin Updraft Profile](https://profiles.cyfrin.io/u/anataliocs)
+- [Cyfrin Updraft](https://profiles.cyfrin.io/u/anataliocs)
 - [Developer-DAO #4727](https://opensea.io/assets/ethereum/0x25ed58c027921e14d86380ea2646e3a1b5c55a8b/4727)
 - [chris-anatalio.eth](https://app.poap.xyz/scan/0x8e61a42dabda412be211faa16d9414506935c9cc)
-- [DoraHacks Profile](https://dorahacks.io/hacker/chris-anatalio)
-- [SuperTeam Profile](https://earn.superteam.fun/t/chris-anatalio-sol)
+- [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
+- [SuperTeam](https://earn.superteam.fun/t/chris-anatalio-sol)
 
 ### 💻 Published Technical Content Samples
 - [Stellar 101: Going from 0 to 1 with Stellar & Soroban](https://www.youtube.com/watch?v=xnQNHL4CHCQ)
