@@ -91,7 +91,7 @@
 - [DoraHacks](https://dorahacks.io/hacker/chris-anatalio)
 - [SuperTeam](https://earn.superteam.fun/t/chris-anatalio-sol)
 
-### 💻 Published Technical Content Samples
+### 💻 Published Technical Content Examples
 - [Stellar 101: Going from 0 to 1 with Stellar & Soroban](https://www.youtube.com/watch?v=xnQNHL4CHCQ)
 - [Stellar Accounts](https://www.youtube.com/watch?v=Lxg61mH-P6o)
 - [Soroban Smart Contract Walkthrough](https://www.youtube.com/watch?v=TB7ORkbxcpQ)
