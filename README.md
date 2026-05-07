@@ -1,5 +1,6 @@
 <h5 align="center">Senior Backend Blockchain Engineer @ Uphold</h6>
 <h6 align="center">Veteran Software Engineer, Technical Educator(LinkedIn Learning/Pluralsight) and Developer Advocate</h6>
+<h6 align="center">NYC</h6>
 <p align="center">
   
   <span style="margin: 0 5px; text-decoration: none;">
