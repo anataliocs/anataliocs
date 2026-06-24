@@ -46,7 +46,7 @@
 <h3 align="center">Web3</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,wasm" 
+    <img src="https://skillicons.dev/icons?i=rust,solidity,ts,go,wasm" 
       title="Web3 Skillset: Rust, Solidity, Typescript and WASM" 
       alt="Web3 Skillset: Rust, Solidity, Typescript and WASM image" />
   </a>
