@@ -111,7 +111,7 @@
  - [Reactive Spring](https://www.linkedin.com/learning/reactive-spring/making-the-jump-to-reactive-spring?u=2125562)
 
 ### 📢 Connect
-- [Cost Effective Philippines Based Web3 Fractional Engineering](https://www.hella.website)
+- [Need Fractional Engineering?](https://hellalabs.dev)
 - [Linkedin](https://www.linkedin.com/in/anataliocs/)
 - [Wellfound](https://wellfound.com/u/canatalio)
 - [ThirdWork](https://www.thirdwork.xyz/roles-freelancers/chris-anatalio)
